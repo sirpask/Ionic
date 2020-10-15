@@ -1,0 +1,7 @@
+{
+  "name": "officeapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
